@@ -22,7 +22,6 @@ class EmployeesListItem extends Component {
                 like: !state.like
             }
         });
-
     }
 
     render() {
